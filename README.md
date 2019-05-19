@@ -7,6 +7,8 @@ To get the Node server running locally:
 
 Server is running by default on port 3000. You can change it by editing the `.env` file.
 
+This project uses `eslint`.
+
 ## List of endpoints
 
 - `post /stations` with `name`
